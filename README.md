@@ -6,7 +6,7 @@ Esse artigo trouxe a elaboração de um classificador que prevê a probabilidade
 
 O modelo obtido pode atuar facilmente como um instrumento de predição de fuga de clientes, auxiliando gestores a detectar a probabilidade de um cliente romper seu contrato com a empresa, permitindo a ele elaborar estratégias de incentivo à permanência e combate à fuga de clientes, consequentemente reduzindo a queda de faturamento decorrente desse problema.
 
-Clique [aqui](./notebooks/projeto-churn.ipynb) para acessar o notebook com todas as explicações do projeto. Caso tenha dificuldades, também pode acessá-lo [aqui](https://nbviewer.jupyter.org/github/raffaelluna/churn-project/blob/main/projeto-churn.ipynb).
+Clique [aqui](./notebooks/projeto-churn.ipynb) para acessar o notebook com todas as explicações, visualizações e resultados do projeto. Caso tenha dificuldades, também pode acessá-lo [aqui](https://nbviewer.jupyter.org/github/raffaelluna/churn-project/blob/main/projeto-churn.ipynb).
 
 ## Estrutura do Projeto
 
