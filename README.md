@@ -10,13 +10,13 @@ O modelo obtido pode atuar facilmente como um instrumento de predição de fuga 
 
 Este projeto está estruturado da seguinte forma:
 
-*input: pasta que contém os dados de treino e de teste e a base de dados crua (churn_raw.csv)
+* input: pasta que contém os dados de treino e de teste e a base de dados crua (churn_raw.csv)
 
-*models: pasta que contém os modelos treinados e seus metadados no formato pickle .pkl
+* models: pasta que contém os modelos treinados e seus metadados no formato pickle .pkl
 
-*notebooks: pasta que contém o notebook com as visualizações produzidas e detalhamento do projeto
+* notebooks: pasta que contém o notebook com as visualizações produzidas e detalhamento do projeto
 
-*output: pasta que contém a base de dados escoradas com a probabilidade de fuga do cliente
+* output: pasta que contém a base de dados escoradas com a probabilidade de fuga do cliente
 
-*src: pasta que contém todos os scripts python de pré-processamento, modelagem, treinamento e avaliação dos modelos
+* src: pasta que contém todos os scripts python de pré-processamento, modelagem, treinamento e avaliação dos modelos
 
