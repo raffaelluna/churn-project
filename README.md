@@ -20,7 +20,7 @@ Este projeto está estruturado da seguinte forma:
 
 ## Etapas do Projeto
 
-Os scripts python do projeto forem executados nesta ordem:
+Os scripts python do projeto foram executados nesta ordem:
 
 1. Divisão do conjunto de teste e de treino: [split_data.py](./src/split_data.py)
 2. Tratamento de outlier do conjunto de treino: [outlier_handling.py](./src/outlier_handling.py)
