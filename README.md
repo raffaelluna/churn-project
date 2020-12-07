@@ -26,7 +26,7 @@ Os scripts python do projeto forem executados nesta ordem:
 2. Tratamento de outlier do conjunto de treino: [outlier_handling.py](./src/outlier_handling.py)
 3. Pré-processamento e treinamento dos modelos preliminares: [train.py](./src/train.py)
 4. Aplicação da técnica SMOTE, pré-processamento e treinamento dos modelos: [train_oversampling.py](./src/train_oversampling.py)
-5. Otimização dos hiperparâmetros dos melhores modelos obtidos na etapa anterior: [hyperparameter_tunning.py](./src/hyperparameter_tunning.py)
+5. Otimização dos hiperparâmetros dos melhores modelos obtidos na etapa anterior: [hyperparameter_tuning.py](./src/hyperparameter_tuning.py)
 6. Combinação dos melhores classificadores obtidos nas etapas anteriores: [train_ensembled_classifier.py](./src/train_ensembled_classifier.py)
 7. Treinamento do modelo combinado com base de dados de atributos reduzidos para fins de produção: [train_reduced_model.py](./src/train_reduced_model.py)
 8. Algoritmo que entrega a probabilidade de o cliente entrar em "Fuga", dado suas características: [predict.py](./src/predict.py)
